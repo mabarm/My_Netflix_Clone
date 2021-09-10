@@ -62,14 +62,13 @@ const Home = () => {
       hard-and-fast rule of grammar, drawn from an authoritative-but-dusty book.
       The true aim of this strategy was to teach you that your ideas must be
       well supported to be persuasive and effective. Here’s a tip: Want to make
-      sure your writing always looks great? Grammarly can save you from
-      misspellings, grammatical and punctuation mistakes, and other writing
-      issues on all your favorite websites. Article icon Your writing, at its
-      best Be the best writer in the office. The model regarding paragraph
-      length that your teacher undoubtedly taught you involves a topic sentence,
-      a number of facts that support that core idea, and a concluding sentence.
-      The proviso about the number of sentences between the topic sentence and
-      the conclusion was not given to you because it was the magic formula for
+      sur\ammatical and punctuation mistakes, and other writing issues on all
+      your favorite websites. Article icon Your writing, at its best Be the best
+      writer in the office. The model regarding paragraph length that your
+      teacher undoubtedly taught you involves a topic sentence, a number of
+      facts that support that core idea, and a concluding sentence. The proviso
+      about the number of sentences between the topic sentence and the
+      conclusion was not given to you because it was the magic formula for
       creating paragraphs of the perfect length; rather, your educator was
       attempting to give you a good reason to do adequate research on your
       topic. Academic writing yields the best examples of the
