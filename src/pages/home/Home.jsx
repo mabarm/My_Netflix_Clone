@@ -62,7 +62,7 @@ const Home = () => {
       hard-and-fast rule of grammar, drawn from an authoritative-but-dusty book.
       The true aim of this strategy was to teach you that your ideas must be
       well supported to be persuasive and effective. Here’s a tip: Want to make
-      sur\ammatical and punctuation mistakes, and other writing issues on all
+      sur\hoammatical and punctuation mistakes, and other writing issues on all
       your favorite websites. Article icon Your writing, at its best Be the best
       writer in the office. The model regarding paragraph length that your
       teacher undoubtedly taught you involves a topic sentence, a number of
@@ -231,6 +231,7 @@ const Home = () => {
         <List />
         <List /> 
         */}
+      <Featured />
     </div>
   );
 };
