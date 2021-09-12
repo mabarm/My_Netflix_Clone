@@ -1,0 +1,10 @@
+.featured {
+  .info {
+    display: flex;
+    flex-direction: column;
+    .buttons {
+      border-radius: 5px;
+      display: flex;
+    }
+  }
+}
