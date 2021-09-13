@@ -1,7 +1,7 @@
 import "./Home.scss";
 import Navbar from "../../components/navbar/Navbar.jsx";
 import Featured from "../../components/featured/Featured.jsx";
-//import List from ;
+import List from "../../components/list/List.jsx";
 
 const Home = () => {
   return (
@@ -224,13 +224,10 @@ const Home = () => {
       you may lose opportunities to draw your reader in. Journalists, for
       example, know that their readers respond better to short paragraphs. News
       readers generally lose
-      {/* <NavBar />
-         <Featured />
-        <List />
-        <List />
-        <List />
-        <List /> 
-        */}
+      <List />
+      <List />
+      <List />
+      <List />
       <Featured />
     </div>
   );
